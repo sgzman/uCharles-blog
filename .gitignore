@@ -16,7 +16,6 @@ target/
 .log
 
 ### IntelliJ IDEA ###
-/public/
 /log.path_IS_UNDEFINED/
 *.iws
 *.iml
